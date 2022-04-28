@@ -1,0 +1,39 @@
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Pubdate</th>
+            <th>Description</th>
+            <th>Actions</th>
+
+
+
+        </tr>
+    </thead>
+    <tbody>
+
+
+        <tr *ngFor="let item of xmlItems">
+
+
+            <td>{{item.title}}</td>
+            <td>{{item.pubDate}}</td>
+            <td>{{item.description}}</td>
+            <td>
+                <ul class="list-group list-group-horizontal">
+                    <li class="bg-success list-group-item"><a class="btn-small" type="submit">Enregistrer</a></li>
+                    <li class="bg-default list-group-item"><a type="submit">Modifier</a></li>
+                    <li class="bg-warning list-group-item"> <a type="submit">Suprimer</a></li>
+                </ul>
+
+
+
+            </td>
+
+
+        </tr>
+
+
+
+    </tbody>
+</table>

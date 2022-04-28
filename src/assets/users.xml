@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<rss>
+
+   <channel>
+   
+         <title>Le Monde.fr - Actualités et Infos en France et dans le monde</title>
+         <description>Le Monde.fr - 1er site d’information. Les articles du journal et toute l’actualité en continu : International, France, Société, Economie, Culture, Environnement, Blogs ...</description>
+         <copyright>Le Monde - L’utilisation des flux RSS du Monde.fr est réservée à un usage strictement personnel, non professionnel et non collectif. Toute autre exploitation doit faire l’objet d’une autorisation et donner lieu au versement d’une rémunération. Contact : droitsdauteur@lemonde.fr</copyright>
+         <link>https://www.lemonde.fr/rss/en_continu.xml</link>
+         <pubDate>Wed, 27 Apr 2022 19:37:05 +0000</pubDate>
+         <language>fr</language>
+         <atom:link href="https://www.lemonde.fr/rss/en_continu.xml" rel="self" type="application/rss+xml"/>
+
+         <item>
+            <title>
+            <![CDATA[ Guerre en Ukraine : le chantage au gaz de Moscou inquiète les Européens ]]>
+            </title>
+            <pubDate>Wed, 27 Apr 2022 20:56:08 +0200</pubDate>
+            <description>
+            <![CDATA[ Les Vingt-Sept s’interrogent sur la portée de la décision de la Russie de cesser l’approvisionnement de gaz à la Pologne et à la Bulgarie, qui refusaient de payer en roubles. ]]>
+            </description>
+            <guid isPermaLink="true">https://www.lemonde.fr/international/article/2022/04/27/guerre-en-ukraine-le-chantage-au-gaz-de-moscou-inquiete-les-europeens_6123958_3210.html</guid>
+            <link>
+            https://www.lemonde.fr/international/article/2022/04/27/guerre-en-ukraine-le-chantage-au-gaz-de-moscou-inquiete-les-europeens_6123958_3210.html
+            </link>
+            <media:content url="https://img.lemde.fr/2022/04/27/235/0/3500/1750/644/322/60/0/236bf2f_ggg-spa102-ukraine-crisis-bulgaria-gas-0427-1a.jpg" width="644" height="322">
+            <media:credit scheme="urn:ebu">SPASIYANA SERGIEVA / REUTERS</media:credit>
+            </media:content>
+      </item>  
+
+      <item>
+         <title>
+         <![CDATA[ Portrait | Aux Etats-Unis, le pasteur qui jette au feu « Harry Potter » et « Twilight » parce qu’il les juge « démoniaques » ]]>
+         </title>
+         <pubDate>Wed, 27 Apr 2022 01:59:06 +0200</pubDate>
+         <description>
+         <![CDATA[ Le pasteur Greg Locke, un Américain de 46 ans, a récemment organisé dans le Tennessee un autodafé d’ouvrages qu’il juge maléfiques. Ses sermons, selon lui inspirés de la Bible, séduisent les milieux conspirationnistes sur fond d’ultranationalisme chrétien. ]]>
+         </description>
+         <guid isPermaLink="true">https://www.lemonde.fr/international/article/2022/04/27/aux-etats-unis-le-pasteur-qui-jette-au-feu-harry-potter-et-twilight-des-livres-demoniaques_6123798_3210.html</guid>
+         <link>https://www.lemonde.fr/international/article/2022/04/27/aux-etats-unis-le-pasteur-qui-jette-au-feu-harry-potter-et-twilight-des-livres-demoniaques_6123798_3210.html</link>
+         <media:content url="https://img.lemde.fr/2022/04/26/240/0/3543/1771/644/322/60/0/df9bbcb_1650961409542-20220209-greg-locke-28.jpg" width="644" height="322">
+         <media:description type="plain">Le pasteur Greg Locke dans le bureau de son église, à Mount Juliet (Tennessee), le 9 février 2022.</media:description>
+         <media:credit scheme="urn:ebu">STACY KRANITZ POUR « LE MONDE »</media:credit>
+         </media:content>
+      </item>
+
+      <item>
+         <title>
+         <![CDATA[ Morts sur le Pont-Neuf, à Paris : un policier mis en examen pour avoir tiré sur les occupants d’une voiture ]]>
+         </title>
+         <pubDate>Wed, 27 Apr 2022 19:42:02 +0200</pubDate>
+         <description>
+         <![CDATA[ Ce fonctionnaire a ouvert le feu sur une voiture lors d’un contrôle, dimanche soir, tuant deux hommes. ]]>
+         </description>
+         <guid isPermaLink="true">https://www.lemonde.fr/societe/article/2022/04/27/morts-sur-le-pont-neuf-a-paris-un-policier-mis-en-examen-apres-des-tirs-mortels-sur-des-automobilistes_6123955_3224.html</guid>
+         <link>https://www.lemonde.fr/societe/article/2022/04/27/morts-sur-le-pont-neuf-a-paris-un-policier-mis-en-examen-apres-des-tirs-mortels-sur-des-automobilistes_6123955_3224.html</link>
+         <media:content url="https://img.lemde.fr/2022/04/25/316/0/4304/2152/644/322/60/0/11047de_5042213-01-06.jpg" width="644" height="322">
+         <media:description type="plain">Un enquêteur examine le corps d’une des deux personnes tuées par la police, à Paris, le 25 avril 2022. </media:description>
+         <media:credit scheme="urn:ebu">LUDOVIC MARIN / AFP</media:credit>
+         </media:content>
+      </item>
+
+   </channel>
+</rss>
